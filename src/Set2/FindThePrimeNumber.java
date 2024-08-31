@@ -4,8 +4,7 @@ public class FindThePrimeNumber {
 
 	public static void main(String[] args) {
 		
-		
-		
+	
 		
 	}
 
