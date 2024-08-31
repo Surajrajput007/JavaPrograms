@@ -1,4 +1,4 @@
-package Set1;
+package Set2;
 
 import java.util.Scanner;
 
